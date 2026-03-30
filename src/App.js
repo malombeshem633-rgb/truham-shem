@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter>
     <div className="App">
       <header className="App-header">
-        <h1>Electro</h1>
+        <h1>Atlas Electronics!!!</h1>
       </header>
 
       <nav>

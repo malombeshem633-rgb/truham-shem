@@ -45,3 +45,7 @@
   text-decoration: none;
 }
 
+.product_img{
+  height: 300px;
+  width: 100%;
+}
